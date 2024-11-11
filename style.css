@@ -1,0 +1,7 @@
+p {
+    color: blueviolet;
+}
+#p1 {
+    border: 2px solid red;
+    border-radius: 5px;
+}
